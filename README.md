@@ -89,6 +89,6 @@
 ## 実行環境
 
 - Python 3
-- JupyterLab、Jupyter Notebook、Google Colaab
+- JupyterLab、Jupyter Notebook、Google Colab
 - TensorFlow / Keras  
 - NumPy, Matplotlib などの標準的なライブラリ  
